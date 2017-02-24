@@ -1,0 +1,55 @@
+indicators,2005-06,2007-08,2008-09,2009-10,2010-11,2011-12,2012-13,2013-14,2014-15,2015-16
+Total Teachers (Elementary),7908,8396,8313,10073,10493,11477,12356,13028,13625,15077
+% Teachers: Government,-,79.9,77.8,79,76.1,74,71.6,72.4,71.9,72.4
+% Teachers: Private Aided,-,3.7,4.3,5.2,3.9,3.2,1.1,1.2,1.1,1
+% Teachers: Private Unaided,-,16.4,17.9,15.9,18.3,21.5,27.3,26.5,27,26.6
+Pupil-Teacher Ratio: Elementary,15,14,15,12,12,11,10,9,8,7
+% Female Teachers,43.7,45.1,45.5,48.7,48.9,49.9,51.1,52.1,53.3,54.6
+% SC Teachers,-,4,3.8,3.7,3.8,3.5,3.6,3.7,3.7,3.9
+% ST Teachers,-,38.9,37.6,39.4,38.1,38,39.4,39,39.5,39.9
+% OBC Teachers,-,35.3,35.3,39.2,40.5,41.8,41.8,41.4,42.5,43.2
+% Teachers Recieved in-Service Training,0.8,0.3,0.1,0.9,0.1,2.3,7,0.9,2.3,1.6
+% Contract Teachers to Total Teachers,0.4,0.7,0.4,0.7,2,9.2,-,-,24.6,29.9
+Enrolment: Classes I-V,87527,87107,87617,88262,89837,84291,80702,73832,66672,60807
+Enrolment: Classes VI-VIII,30232,34131,34523,35840,36705,41327,44628,46269,44136,44490
+"Enrolment: Classes I-V, Government",-,72921,69427,69305,71934,64058,57148,50156,43614,36634
+"Enrolment:Classe36s. 1VI-VIII,Government",-,30151,29325,30373,30905,33574,36880,38067,36376,36638
+"Enrolment: Clas3s2e.s3 I-V, Private",-,14186,18190,18957,17903,19566,23554,23676,23058,24173
+"Enrolment: Classes VI-VIII, Private",-,3980,5198,5467,5800,6494,7748,8202,7760,7852
+% Girls Enrolment:4 3P.r9imary Level,49.7,49.5,49.4,48.9,48.5,48,47.8,47.7,47.3,47.1
+% Girls Enrolmen3t6: .U6 .Primary Level,53.1,54.1,53.8,54.3,54.3,53.2,52.5,51.1,51.3,51.1
+Ratio of Girls Enr.to Boys: Primary,0.99,0.98,0.98,0.96,0.94,0.92,0.92,0.91,0.9,0.89
+Ratio of Girls Enr.to Boys: U.Primary,1.13,1.18,1.17,1.19,1.19,1.14,1.11,1.05,1.05,1.05
+% SC Enrolment: Classes I-VIII,7.2,6.8,7.2,6.8,7.3,7.5,7.4,7.7,7.8,7.9
+% ST Enrolment: C4la4s.7ses  I-VIII,36.3,36.1,37.3,35.8,37.2,37.4,36.9,36,36.5,36.4
+% OBC Enrolment: Primary Level,41.1,39.5,38.3,40.4,38.8,39.3,39.3,37.9,38.9,39.1
+% OBC Enrolment:U.Primary Level,43.5,41.7,40.7,43.8,40.2,42.9,43.2,42,42.2,42.7
+% Muslim Enrolmen4t6: .P4 rimary Level,-,-,0.5,0.6,0.9,1.3,1.4,2,1.8,1.9
+% Muslim Enrolm33e.3nt: U. Primary Level,-,-,1,0.4,0.6,0.9,0.8,1.5,1.1,1.2
+Ratio of Grade V to I,66,80,87,92,78,-,-,-,-,-
+Avg. Repetition Rate: Primary Level,21.6,16.9,16.6,11.3,12.6,4,0.3,1,1.1,0.4
+Avg.Repetition Rate: U.Primary Level,-,17.7,14.5,11.1,11,3.2,0.1,0.2,0.6,0.1
+Avg. Drop-out Rate: P53ri.m8 ary Level,5.7,5.2,3.5,4.5,7.1,4.3,1572..82,3.6,4.6,2.3
+Retention Rate: Primary Level,-,63.7,64.8,69.5,78.6,90.4,95.2,92.8,77.1,86.9
+Transition Rate: Primary to U.Primary,-,77.5,78.1,83.1,79.1,95,96.5,94.9,92.3,93.1
+Student-Classroom Ratio,16,15,15,15,14,14,14,13,12,12
+% Schools with Drinking Water,76.9,79.8,87.5,96.7,98.2,9260.15,1497,97.2,97.2,98.5
+% Schools with Common Toilet,86.5,88.7,98.7,80,-,-,-,-,-,-
+% Schools with Boys' Toilet,-,-,-,43.4,49.5,95.2,55.2x,100.0x,99.9x,99.8
+% Schools with Girls' Toilet,34.5,42.3,41.4,74.8,75.4,8210.19,15 97.1x,96.8x,97.4x,99.8
+% Schools with Boundarywall,25.2,25.7,25.5,26.7,29.3,28.8,32,34.9,36.3,35.3
+% School with Playground Facility,-,-,-,63,63.8,6210.19,1664,67.2,67.1,68
+% Schools with Ramp,4.5,6,6,5.5,5.5,5.2,65.0**,73.3**,26.4**,50.0**
+% Schools havining Electricity,-,-,53.4,57.1,60,56.7,61.5,64.7,70.7,84
+% Schools with Computer,18.1,21.9,24,35.9,41,45.9,50.3,53.3,58.6,60.4
+% Schools Providing Mid-day Meal*,-,-,-,90.5,92.2,91.1,97,97.9,98.3,97.9
+Number of Districts Covered 7.3,4,4,4,4,4,4,4,4,4,4
+Total Schools,1097,1150,1144,1180,1201,1235,1279,1277,1274,1279
+Total Government Schools,-,870,855,892,895,902,866,870,868,870
+Total Private Schools,-,278,288,288,306,333,413,407,406,409
+Ratio of Primary to U.PrimaryS7c.7h./Sec.,3.3,3.3,3.3,2.9,2.7,2.4,2.4,2.3,2.3,2.2
+Primary Sch./Sec.per 1000 Child Popln.,17,20,9,22,24,23,24,21,21,21
+U.Prim. Sch./Sec.per 1000 Child Popln.,8,9,20,11,12,14,14,16,18,19
+% Single-Teacher Schools with Enr.≥15,0.7,0.4,0.2,0.6,0.8,1.5,0.5,0.2,0.5,0
+% Enrolment in Single-Teacher Schools,0.2,0.1,0.1,0.2,0.3,0.5,0.2,0.1,0.2,0
+% Schools with Enrolment ≤7 5.00,42.8,46.3,45.2,45.4,43.6,45.8,48.4,52.3,55,56.4
