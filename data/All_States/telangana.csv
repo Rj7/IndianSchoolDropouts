@@ -34,12 +34,12 @@ Transition Rate: Primary to U.Primary,-,-,-,-,-,-,-,-,95.5,98.2
 Student-Classroom Ratio,-,-,-,-,-,-,-,-,20,23
 % Schools with Drinking Water,-,-,-,-,-,201-,14-,-,93.4,93.8
 % Schools with Common Toilet,-,-,-,-,-,-,-,-,-,-
-% Schools with Boys' Toilet,-,-,-,-,-,-,-,-,95.3x,100.0
+% Schools with Boys' Toilet,-,-,-,-,-,-,-,-,95.3,100.0
 % Schools with Girls' Toilet,-,-,-,-,-,201-,15,,,
--,-,73.9x,100.0,,,,,,,
+-,-,73.9,100.0,,,,,,,
 % Schools with Boundarywall,-,-,-,-,-,-,-,-,69.0,69.0
 % School with Playground Facility,-,-,-,-,-,201-,16-,-,61.2,60.6
-% Schools with Ramp,-,-,-,-,-,-,-,-,54.5**,63.1**
+% Schools with Ramp,-,-,-,-,-,-,-,-,54.5,63.1
 % Schools havining Electricity,-,-,-,-,-,-,-,-,90.9,91.5
 % Schools with Computer,-,-,-,-,-,-,-,-,37.5,34.7
 Number of Districts Covered,-,-,-,-,-,-,-,-,10.0,10.0

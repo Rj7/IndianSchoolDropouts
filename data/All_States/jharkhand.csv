@@ -1,57 +1,56 @@
 indicators,2005-06,2007-08,2008-09,2009-10,2010-11,2011-12,2012-13,2013-14,2014-15,2015-16
-Total Teachers (Elementary),111288,148322.0,152168.0,147804.0,166672.0,166766.0,170509,170189,171573.0,181866.0
+Total Teachers (Elementary),111288,148322,152168,147804,166672,166766,170509,170189,171573,181866
 % Teachers: Government,-,88.7,88.3,89.7,80.8,75.9,74.4,71.4,68.5,68.2
-% Teachers: Private Aided,-,4.1,4.0,4.8,4.2,4.0,3.8,3.6,3.3,3.0
+% Teachers: Private Aided,-,4.1,4,4.8,4.2,4,3.8,3.6,3.3,3
 % Teachers: Private Unaided,-,6.4,6.9,5.5,8.6,10.5,10.7,10.3,11.3,11.3
-Pupil-Teacher Ratio: Elementary,48,45.0,43.0,44.0,41.0,40.0,39,39,38.0,36.0
+Pupil-Teacher Ratio: Elementary,48,45,43,44,41,40,39,39,38,36
 % Female Teachers,29.3,28.3,28.1,27.7,29.2,31.7,31.7,32.4,33.3,34.1
 % SC Teachers,-,8.5,8.3,8.4,7.8,7.5,7.4,7.3,7.2,7.1
-% ST Teachers,-,27.0,26.3,26.2,24.8,24.2,23.8,23.5,23.2,23.1
-% OBC Teachers,-,40.2,40.6,41.0,38.1,36.1,36.1,36.2,36.2,36.3
-% Teachers Recieved in-Service Training,37.4,36.9,28.0,21.0,42.7,49.3,28.6,33.2,25.7,21.5
+% ST Teachers,-,27,26.3,26.2,24.8,24.2,23.8,23.5,23.2,23.1
+% OBC Teachers,-,40.2,40.6,41,38.1,36.1,36.1,36.2,36.2,36.3
+% Teachers Recieved in-Service Training,37.4,36.9,28,21,42.7,49.3,28.6,33.2,25.7,21.5
 % Contract Teachers to Total Teachers,22.4,44.6,47.3,50.8,49.4,49.5,-,-,52.4,46.6
-Enrolment: Classes I-V,4494753,5464268.0,5166716.0,4939161.0,5017173.0,4753088.0,4653133,4582759.0,4463367.0,4453527.0
-Enrolment: Classes VI-VIII,812381,1255404.0,1436228.0,1584772.0,1823571.0,1907171.0,1965317,2042264.0,2077422.0,2068541.0
-"Enrolment: Classes I-V, Government",-,5048602.0,4762670.0,4437680.0,4172351.0,3892148.0,3647149,3528498.0,3348595.0,3273922.0
-"Enrolment:Classes VI-VIII,8G0o.3vernment",-,1070996.0,1239852.0,1319844.0,1419978.0,1476527.0,1497416,1493054.0,1479273.0,1455103.0
-"Enrolment: Classe3s9 .I9-V, Private",-,363664.0,354968.0,501481.0,574640.0,535594.0,610035,539604.0,525393.0,544318.0
-"Enrolment: Classes VI-VIII, Private",-,172386.0,182643.0,264928.0,312311.0,313054.0,349911,361248.0,377241.0,385493.0
-% Girls Enrolment: Primary8 L4e.3vel,47.5,49.0,49.3,49.5,49.2,49.0,49.1,49.0,49.0,48.9
-% Girls Enrolment4: 1U.8.Primary Level,44.1,46.4,47.3,48.8,49.1,49.8,50.0,50.0,50.0,50.2
-Ratio of Girls Enr.to Boys: Primary,0.90,0.96,0.97,0.98,0.97,0.96,0.96,0.96,0.96,0.96
-Ratio of Girls Enr.to Boys: U.Primary,0.79,0.87,0.9,0.95,0.96,0.99,1.00,1.0,1.0,1.01
-% SC Enrolment: Classes I-VIII,14.3,15.0,14.8,14.9,14.4,14.7,14.8,14.7,14.8,14.8
-% ST Enrolment: Classes7  3I.-0VIII,32.7,30.5,30.7,29.8,29.2,29.0,28.9,28.5,28.4,28.3
+Enrolment: Classes I-V,4494753,5464268,5166716,4939161,5017173,4753088,4653133,4582759,4463367,4453527
+Enrolment: Classes VI-VIII,812381,1255404,1436228,1584772,1823571,1907171,1965317,2042264,2077422,2068541
+"Enrolment: Classes I-V, Government",-,5048602,4762670,4437680,4172351,3892148,3647149,3528498,3348595,3273922
+"Enrolment:Classes VI-VIII,8G0o.3vernment",-,1070996,1239852,1319844,1419978,1476527,1497416,1493054,1479273,1455103
+"Enrolment: Classe3s9 .I9-V, Private",-,363664,354968,501481,574640,535594,610035,539604,525393,544318
+"Enrolment: Classes VI-VIII, Private",-,172386,182643,264928,312311,313054,349911,361248,377241,385493
+% Girls Enrolment: Primary8 L4e.3vel,47.5,49,49.3,49.5,49.2,49,49.1,49,49,48.9
+% Girls Enrolment4: 1U.8.Primary Level,44.1,46.4,47.3,48.8,49.1,49.8,50,50,50,50.2
+Ratio of Girls Enr.to Boys: Primary,0.9,0.96,0.97,0.98,0.97,0.96,0.96,0.96,0.96,0.96
+Ratio of Girls Enr.to Boys: U.Primary,0.79,0.87,0.9,0.95,0.96,0.99,1,1,1,1.01
+% SC Enrolment: Classes I-VIII,14.3,15,14.8,14.9,14.4,14.7,14.8,14.7,14.8,14.8
+% ST Enrolment: Classes7  3I.-0VIII,32.7,30.5,30.7,29.8,29.2,29,28.9,28.5,28.4,28.3
 % OBC Enrolment: Primary Level,42.3,44.3,45.4,44.2,45.3,45.8,44.4,44.5,44.7,44.9
-% OBC Enrolment:U.Primary Level,46.6,47.4,48.7,47.5,48.5,50.1,49.0,49.1,49.2,49.3
-% Muslim Enrolment: Prim73a.r9y Level,-,10.3,10.7,13.3,13.6,14.5,13.8,13.0,12.8,12.5
-% Muslim Enrolment: U. 7P1r.i7mary Level,-,9.0,9.9,11.8,12.8,13.7,13.7,12.8,12.8,12.2
-Ratio of Grade V to I,39,52.0,58.0,62.0,74.0,77.0,84,84.0,89.0,87.0
+% OBC Enrolment:U.Primary Level,46.6,47.4,48.7,47.5,48.5,50.1,49,49.1,49.2,49.3
+% Muslim Enrolment: Prim73a.r9y Level,-,10.3,10.7,13.3,13.6,14.5,13.8,13,12.8,12.5
+% Muslim Enrolment: U. 7P1r.i7mary Level,-,9,9.9,11.8,12.8,13.7,13.7,12.8,12.8,12.2
+Ratio of Grade V to I,39,52,58,62,74,77,84,84,89,87
 Avg. Repetition Rate: Primary Level,5.8,9.7,8.8,6.5,8.9,5.6,3.5,2.8,2.2,1.4
 Avg.Repetition Rate: U.Primary Level,-,3.5,2.8,1.7,2.6,1.6,1.1,1.2,0.7,0.6
-Avg. Drop-out Rate: Prima73ry.7 Level,17.0,12.8,15.1,15.8,10.5,12.6,1527.3.5,7.2,6.4,5.5
+Avg. Drop-out Rate: Prima73ry.7 Level,17,12.8,15.1,15.8,10.5,12.6,7.5,7.2,6.4,5.5
 Retention Rate: Primary Level,-,77.8,71.4,53.1,47.7,51.5,60.2,65.1,69.3,75.2
-Transition Rate: Primary to U.Primary,-,77.0,71.2,74.2,79.2,76.0,78.7,80.2,82.8,84.2
-Student-Classroom Ratio,62,60,54,47.0,37,33,30,28,27,26
-% Schools with Drinking Water,71.7,70.7,71.7,85.4,87.4,9200.10,1490.8,91.2,91.8,93.5
+Transition Rate: Primary to U.Primary,-,77,71.2,74.2,79.2,76,78.7,80.2,82.8,84.2
+Student-Classroom Ratio,62,60,54,47,37,33,30,28,27,26
+% Schools with Drinking Water,71.7,70.7,71.7,85.4,87.4,90,90.8,91.2,91.8,93.5
 % Schools with Common Toilet,21.4,34.7,40.9,30.4,-,-,-,-,-,-
-% Schools with Boys' Toilet,-,-,-,32.7,52.1,75.4,60.8x,89.6x,90.1x,96.5
-% Schools with Girls' Toilet,11.6,20.7,28.2,49.3,60.0,6280.12,15 83.7x,84.8x,84.2x,96.8
-% Schools with Boundarywall,28.5,23.5,22.5,21.5,25.2,26.5,25.0,26.9,30.5,31.1
-% School with Playground Facility,-,-,-,28.0,31.0,3200.10,1631.3,32.0,32.7,40.5
-% Schools with Ramp,4.3,5.6,7.0,14.0,31.2,36.6,63.6**,67.5**,60.1**,74.0**
-% Schools havining Electricity,-,-,6.8,7.5,9.8,10.4,11.1,12.0,16.9,18.4
-% Schools with Computer,4.7,5.5,5.8,6.0,7.2,8.1,8.3,8.7,9.3,9.8
-% Schools Providing Mid-day Meal*,-,-,-,95.0,92.3,97.1,96.8,97.5,98.0,98.2
-Number of Distric3t.s7 Covered,22,22.0,24.0,24.0,24.0,24.0,24.0,24.0,24.0,24.0
-Total Schools,,,,,,,,,,
-9.4,36211,41944.0,41850.0,41875.0,44675.0,44835.0,45760.0,46348.0,46773.0,47441.0
-Total Government Schools,-,39511.0,39461.0,39624.0,40505.0,40343.0,40674.0,40666.0,40603.0,40437.0
-Total Private Schools,-,2124.0,2082.0,2250.0,2703.0,2475.0,2583.0,2335.0,2354.0,2586.0
-Ratio of Primary to U.PrimarySch1./0S.4ec.,4.0,3.1,2.9,2.6,2.4,2.5,2.5,2.4,2.4,2.4
-Primary Sch./Sec.per 1000 Child Popln.,10,12.0,7.0,12.0,13.0,13.0,13.0,11.0,11.0,11.0
-U.Prim. Sch./Sec.per 1000 Child Popln.,4,6.0,12.0,7.0,8.0,8.0,8.0,9.0,9.0,10.0
+% Schools with Boys' Toilet,-,-,-,32.7,52.1,75.4,60.8,89.6,90.1,96.5
+% Schools with Girls' Toilet,11.6,20.7,28.2,49.3,60,68.2,93.7,84.8,84.2,96.8
+% Schools with Boundarywall,28.5,23.5,22.5,21.5,25.2,26.5,25,26.9,30.5,31.1
+% School with Playground Facility,-,-,-,28,31,30,31.3,32,32.7,40.5
+% Schools with Ramp,4.3,5.6,7,14,31.2,36.6,63.6,67.5,60.1,74
+% Schools havining Electricity,-,-,6.8,7.5,9.8,10.4,11.1,12,16.9,18.4
+% Schools with Computer,4.7,5.5,5.8,6,7.2,8.1,8.3,8.7,9.3,9.8
+% Schools Providing Mid-day Meal*,-,-,-,95,92.3,97.1,96.8,97.5,98,98.2
+Number of Distric3t.s7 Covered,22,22,24,24,24,24,24,24,24,24
+Total Schools,36211,41944,41850,41875,44675,44835,45760,46348,46773,47441
+Total Government Schools,-,39511,39461,39624,40505,40343,40674,40666,40603,40437
+Total Private Schools,-,2124,2082,2250,2703,2475,2583,2335,2354,2586
+Ratio of Primary to U.PrimarySch1./0S.4ec.,4,3.1,2.9,2.6,2.4,2.5,2.5,2.4,2.4,2.4
+Primary Sch./Sec.per 1000 Child Popln.,10,12,7,12,13,13,13,11,11,11
+U.Prim. Sch./Sec.per 1000 Child Popln.,4,6,12,7,8,8,8,9,9,10
 % Single-Teacher Schools with Enr.≥15,24.9,8.2,7.4,7.9,9.5,12.2,12.5,14.4,15.8,15.6
-% Enrolment in Single-Teacher Schools,13.0,4.5,3.6,4.1,4.1,5.2,5.3,6.3,7.0,6.8
-% Schools with Enro5.l0ment ≤ 50,16.2,11.0,12.5,17.0,19.7,22.7,25.4,27.4,29.4,30.9
-% Schools with Fem4.a6le Teachers,65.0,54.6,54.5,54.8,57.4,59.1,59.4,60.9,54.6,56.5
+% Enrolment in Single-Teacher Schools,13,4.5,3.6,4.1,4.1,5.2,5.3,6.3,7,6.8
+% Schools with Enro5.l0ment ≤ 50,16.2,11,12.5,17,19.7,22.7,25.4,27.4,29.4,30.9
+% Schools with Fem4.a6le Teachers,65,54.6,54.5,54.8,57.4,59.1,59.4,60.9,54.6,56.5
