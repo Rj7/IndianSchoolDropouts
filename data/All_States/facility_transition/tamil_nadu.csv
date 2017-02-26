@@ -1,0 +1,12 @@
+name,index,value,stderr
+(intercept),,-123.430850295,
+% Schools with Drinking Water,,0.89662871659,
+% Schools with Common Toilet,,0.986719563921,
+% Schools with Boys' Toilet,,-0.202483965331,
+% Schools with Girls' Toilet,,-1.34622808365,
+% Schools with Boundarywall,,-0.378452787401,
+% School with Playground Facility,,0.427529326949,
+% Schools with Ramp,,1.21323931883,
+% Schools havining Electricity,,-0.119320769738,
+% Schools with Computer,,4.07204311124,
+% Schools Providing Mid-day Meal*,,-0.304826711324,
