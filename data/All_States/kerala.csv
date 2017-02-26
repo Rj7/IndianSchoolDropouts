@@ -28,18 +28,20 @@ Ratio of Girls Enr.to Boys: U.Primary,0.93,0.96,0.96,0.96,0.96,0.94,0.95,0.95,0.
 Ratio of Grade V to I,-,-,-,-,-,-,-,-,-,99
 Avg. Repetition Rate: Primary Level,3,3.1,3,1.5,2.1,1.8,1,0.3,0.1,0.2
 Avg.Repetition Rate: U.Primary Level,-,4.9,4.8,2.1,3,2.2,0.6,0.1,0.1,0.1
-Avg. Drop-out Rate: Primary L9e7v.0el,1.3,-,-,-,-,706.1.,-,-,-,-
+Avg. Drop-out Rate: Primary L9e7v.0el,1.3,-,-,-,-,0.1,-,-,-,-
 Retention Rate: Primary Level,-,-,-,-,-,-,-,-,-,-
+Transition Rate: Primary to U.Primary,-,-,98,-,-,-,-,-,-,-
 Student-Classroom Ratio,29,25,25,27,25,24,24,24,24,24
-% Schools with Drinking Water,93.7,97.6,97.7,99,99.4,9250.19,1497.8,99.4,99.6,99.7
+% Schools with Drinking Water,93.7,97.6,97.7,99,99.4,95.9,97.8,99.4,99.6,99.7
 % Schools with Common Toilet,78.5,84.1,82.9,55.9,-,-,-,-,-,-
-% Schools with Boys' Toilet,-,-,-,66.1,70.2,88,68.8x,99.6x,99.8x,98.1
-% Schools with Girls' Toilet,71.5,79,77.9,76.5,77.3,8200.17,15 96.0x,95.2x,95.2x,99.1
+% Schools with Boys' Toilet,-,-,-,66.1,70.2,88,68.8,99.6,99.8,98.1
+% Schools with Girls' Toilet,71.5,79,77.9,76.5,77.3,80.7,96,95.2,95.2,99.1
 % Schools with Boundarywall,66.8,70.6,72.8,76.9,79.4,81.9,79.7,81.9,84.1,84.3
-% School with Playground Facility,0,0,0,69.7,68.3,6260.14,1668.3,70.8,72.3,73.3
-% Schools with Ramp,32.9,58,59.9,61.8,60.5,54.4,83.3**,91.2**,87.5**,89.1**
+% School with Playground Facility,0,0,0,69.7,68.3,66.4,68.3,70.8,72.3,73.3
+% Schools with Ramp,32.9,58,59.9,61.8,60.5,54.4,83.3,91.2,87.5,89.1
 % Schools havining Electricity,-,-,90.1,88.6,90.8,87.5,90.7,94,96.9,97.4
 % Schools with Computer,51.2,71.2,79.9,86.9,93,87.7,90.3,92.7,93.6,94.3
+% Schools Providing Mid-day Meal*,-,-,-,96.4,93.3,95.8,97.3,98.3,98.8,94.3
 Number of Districts Covered,14,14,14,14,14,14,14,14,14,14
 Total Schools,11381,12426,12352,12425,12924,15534,16287,17023,16419,16458
 Total Government Schools,-,5087,5042,5095,4950,5135,4946,5111,4888,4573

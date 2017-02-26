@@ -29,22 +29,23 @@ Ratio of Girls Enr.to Boys: U.Primary,0.88,0.85,0.86,0.85,0.85,0.85,0.85,0.86,0.
 Ratio of Grade V to I,79,85,86,93,100,-,-,-,-,-
 Avg. Repetition Rate: Primary Level,9.1,4.7,0.5,3.1,2.7,0.7,0,0.1,0.1,0.1
 Avg.Repetition Rate: U.Primary Level,-,11.5,4.3,2.7,2.7,0.6,0,0.5,0.2,0.2
-Avg. Drop-out Rate: Primary L1e0v0e.l0,-,-,-,0.3,-,-,112.7 -,-,-,-
+Avg. Drop-out Rate: Primary L1e0v0e.l0,-,-,-,0.3,-,-,-,-,-,-
 Retention Rate: Primary Level,-,-,-,-,98.5,-,-,-,-,-
 Transition Rate: Primary to U.Primary,-,-,-,-,-,-,-,-,97.6,94.6
 Student-Classroom Ratio,41,28,37,34,34,36,41,40,39,38
-% Schools with Drinking Water,98.2,99.5,100,100,100,10200.1,14100,100,100,100
+% Schools with Drinking Water,98.2,99.5,100,100,100,100,100,100,100,100
 % Schools with Common Toilet,94.4,90.5,52.8,32.5,-,-,-,-,-,-
-% Schools with Boys' Toilet,-,-,-,78.7,79.9,100,100.0x,100.0x,100.0x,100
-% Schools with Girls' Toilet,87.8,74.2,87.9,78.9,80.3,9290.13,15100.0x,100.0x,100.0x,100
+% Schools with Boys' Toilet,-,-,-,78.7,79.9,100,100,100,100,100
+% Schools with Girls' Toilet,87.8,74.2,87.9,78.9,80.3,99.3,100,100,100,100
 % Schools with Boundarywall,97.7,98.7,98,97.9,98.1,98.3,97.8,98.7,99.9,99.9
-% School with Playground Facility,-,-,-,80.7,80.4,8200.11,1673.9,81.7,85.8,87.4
-% Schools with Ramp,59.1,65,59,70.5,63.4,65.4,99.2**,100.0**,100.0**,100.0**
+% School with Playground Facility,-,-,-,80.7,80.4,80.1,73.9,81.7,85.8,87.4
+% Schools with Ramp,59.1,65,59,70.5,63.4,65.4,99.2,100,100,100
 % Schools havining Electricity,-,-,98.5,98.7,99,99.8,99.7,100,100,100
 % Schools with Computer,74.8,72.8,85.8,82.4,83.2,93.4,77.9,81.6,81,83.9
+% Schools Providing Mid-day Meal*,-,-,-,95.7,99.7,8.7,98,97.5,98,97.9
 Number of Districts Covered,9,9,9,9,9,9,9,9,9,9
 Total Schools,4542,4742,4930,4946,5021,5064,5103,5387,5739,5751
-Total Government Schools,-,2982,2768c,2733,2772,2782,2814,2826,2842,2826
+Total Government Schools,-,2982,2768,2733,2772,2782,2814,2826,2842,2826
 Total Private Schools,-,1760,2162,2213,2249,2282,2289,2561,2897,2925
 Ratio of Primary to U.PrimaryS1c5h.3./Sec.,1.7,1.8,1.8,1.8,1.8,1.8,1.8,1.7,1.7,1.7
 Primary Sch./Sec.per 1000 Child Popln.,2,3,2,3,3,3,3,3,3,3

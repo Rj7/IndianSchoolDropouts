@@ -29,22 +29,22 @@ Ratio of Girls Enr.to Boys: U.Primary,0.88,0.9,0.9,0.92,0.94,0.93,0.96,0.94,0.95
 Ratio of Grade V to I,-,-,-,-,-,-,-,100,98,-
 Avg. Repetition Rate: Primary Level,-,1.8,0.5,1.7,2.8,1.2,0.4,0.8,0.3,0.3
 Avg.Repetition Rate: U.Primary Level,-,4.5,1.1,3.8,1.3,0.4,0.2,0.5,0.3,0.2
-Avg. Drop-out Rate: Primary Level,-,-,-,1.5,3.5,8-,.7-,0.7,1.2,0.5
+Avg. Drop-out Rate: Primary Level,-,-,-,1.5,3.5,-,-,0.7,1.2,0.5
 Retention Rate: Primary Level,-,-,-,84.4,-,92.7,98.1,93.8,-,96.2
 Transition Rate: Primary to U.Primary,-,-,-,-,97.2,-,99.9,98.4,98.7,-
 Student-Classroom Ratio,22,19,19,17,16,15,19,19,19,18
-% Schools with Drinking Water,81.9,98.1,98.6,91.4,95.8,9270.1,1498.2,98.7,99.5,100
+% Schools with Drinking Water,81.9,98.1,98.6,91.4,95.8,97,98.2,98.7,99.5,100
 % Schools with Common Toilet,35.9,84.4,95.6,29.7,-,-,-,-,-,-
-% Schools with Boys' Toilet,-,-,-,84.5,68.5,86.7,74.0x,95.4x,100.0x,100
-% Schools with Girls' Toilet,63.8,73.8,81.7,88.8,73.9,8220.1,15 91.1x,93.2x,100.0x,100
+% Schools with Boys' Toilet,-,-,-,84.5,68.5,86.7,74,95.4,100,100
+% Schools with Girls' Toilet,63.8,73.8,81.7,88.8,73.9,82,91.1,93.2,100,100
 % Schools with Boundarywall,41.1,47.6,48.6,51.8,48.5,48.6,49,57.9,65.9,70.2
-% School with Playground Facility,-,-,-,60.9,56.9,5270.17,1655,57.5,57.6,58.1
-% Schools with Ramp,5.6,8.6,7.2,17.3,25.1,22,36.7**,39.8**,47.8**,51.8**
+% School with Playground Facility,-,-,-,60.9,56.9,57.7,55,57.5,57.6,58.1
+% Schools with Ramp,5.6,8.6,7.2,17.3,25.1,22,36.7,39.8,47.8,51.8
 % Schools havining Electricity,-,-,87.5,84.3,86.2,86.2,86.7,87.2,88.8,90
 % Schools with Computer,17.4,41.2,47.5,55.3,60.8,59.4,52.8,52.6,56.8,56.6
 % Schools Providing Mid-day Meal*,-,-,-,94.4,89.9,94.3,92.1,94.9,97.1,97.4
-Number of Districts Covered 8.5,2,3,3,3,3,3,3,3,3,3
-Total Schools 8,287,359,360,394,406,428,451,454,410,410
+Number of Districts Covered,2,3,3,3,3,3,3,3,3,3
+Total Schools,287,359,360,394,406,428,451,454,410,410
 Total Government Schools,-,317,313,322,324,330,340,348,340,340
 Total Private Schools,-,42,46,72,82,98,111,106,70,70
 Ratio of Primary to U.Primary7S.c4h./Sec.,2.2,2.1,2.1,2.4,1.4,1.8,2.5,2.4,2.1,2
