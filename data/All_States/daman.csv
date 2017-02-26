@@ -30,8 +30,8 @@ Ratio of Grade V to I,91,97,87,88,93,90,92,-,98,99
 Avg. Repetition Rate: Primary Level,-,11,10.7,6,0,0.1,0,1,0.2,0
 Avg.Repetition Rate: U.Primary Level,-,6.5,4.8,3.2,0,0.1,0,0.3,0.3,0
 Avg. Drop-out Rate: Primary Level,-,5.4,22.7,2.3,6.3,2.69,0.7,-,0.9,1.1
-Avg. Drop-out Rate: U.Primary Level,-,-,-,-,-,-,-,-,-,-
-Avg. Drop-out Rate: Secondary Level,-,-,-,-,-,-,-,-,-,-
+Avg. Drop-out Rate: U.Primary Level,-,-,-,-,1.46,5.58,-,3.56,3.11,-
+Avg. Drop-out Rate: Secondary Level,-,-,-,-,-,-,11.52,19.86,32.27,-
 Retention Rate: Primary Level,-,-,-,93.3,-,-,95,92.2,-,96.9
 Transition Rate: Primary to U.Primary,-,77.6,100,92,97.6,99.9,-,-,96.2,96
 Student-Classroom Ratio,36,32,36,34,35,36,36,36,34,33
