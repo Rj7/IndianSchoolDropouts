@@ -29,7 +29,9 @@ Ratio of Girls Enr.to Boys: U.Primary,0.88,0.89,0.9,0.93,0.95,0.97,1.01,1,1.02,1
 Ratio of Grade V to I,35,36,37,41,43,50,52,58,62,64
 Avg. Repetition Rate: Primary Level,15.7,8.3,6,4.9,4.1,2,0.8,0.8,0.5,0.5
 Avg.Repetition Rate: U.Primary Level,-,6.7,5.3,4.4,3.3,1,0.2,0.8,0.4,0.3
-Avg. Drop-out Rate4:3 P.8rimary Level,15.9,14.2,16.6,20.7,18.7,14.8,18.7,15.2,10.9,10.8
+Avg. Drop-out Rate: Primary Level,15.9,14.2,16.6,20.7,18.7,14.8,18.7,15.2,10.9,10.8
+Avg. Drop-out Rate: U.Primary 1evel,-,-,-,-,-,-,-,-,-,-
+Avg. Drop-out Rate: Secondary 1evel,-,-,-,-,-,-,-,-,-,-
 Retention Rate: Primary Level,-,-,60.5,46.2,44.8,46.8,42.3,43,44.5,47.6
 Transition Rate: Primary to U.Primary,-,-,97.8,-,91.1,96.1,91.4,98,98.5,97
 Student-Classroom Ratio,23,21,20,19,19,18,17,16,16,15
@@ -47,7 +49,7 @@ Number of Districts3 .C6overed,15,16,16,16,16,16,16,16,20,20
 Total Schools,3070,4547,4583,4642,4441,4343,4413,3855,3903,4012
 Total Government Schools,-,4331,4328,4341,4100,3950,4004,3398,3382,3464
 Total Private Schools,-,216,255,300,339,392,406,451,502,518
-Ratio of Primary to U.PrimarySch./S9.e3c.,4,5.2,4.2,3.9,3.6,3.3,3,2.5,2.4,2.4
+Ratio of Primary to U.PrimarySch./Sec.,4,5.2,4.2,3.9,3.6,3.3,3,2.5,2.4,2.4
 Primary Sch./Sec.per 1000 Child Popln.,24,39,14,43,44,40,41,21,22,22
 U.Prim. Sch./Sec.per 1000 Child Popln.,9,11,41,15,16,17,19,17,19,21
 % Single-Teacher Schools with Enr.≥15,34.7,25.2,29.2,27.7,26.6,23.6,21.2,20.3,15.7,15.8
