@@ -1,12 +1,5 @@
 name,index,value,stderr
-(intercept),,-83.6424133641,
-% Schools with Drinking Water,,0.388488582744,
-% Schools with Common Toilet,,1.19998772878,
-% Schools with Boys' Toilet,,-1.87896795844,
-% Schools with Girls' Toilet,,0.833695538975,
-% Schools with Boundarywall,,-1.74828473977,
-% School with Playground Facility,,-0.0210052979587,
-% Schools with Ramp,,0.733258195325,
-% Schools havining Electricity,,-0.331013652327,
-% Schools with Computer,,6.27328552507,
-% Schools Providing Mid-day Meal*,,1.50213071468,
+(intercept),,64.4806547515,100.878213077
+Pupil-Teacher Ratio: Elementary,,5.22210178617,5.21311232901
+% Teachers Recieved in-Service Training,,0.992001527959,0.42939496522
+Student-Classroom Ratio,,-6.67063372402,3.52432170957
