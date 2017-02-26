@@ -1,24 +1,5 @@
 name,index,value,stderr
-(intercept),,-15.6387075706,
-Total Teachers (Elementary),,0.000491212510823,
-% Teachers: Government,,0.537854845306,
-Pupil-Teacher Ratio: Elementary,,-0.303163440627,
-% Female Teachers,,0.0504480458325,
-% Teachers Recieved in-Service Training,,0.444945893878,
-Avg. Repetition Rate: Primary Level,,8.55127816861,
-Avg.Repetition Rate: U.Primary Level,,1.7497239589,
-Avg. Drop-out Rate: Primary Level,,0.182224237317,
-Retention Rate: Primary Level,,-0.0565691108954,
-Student-Classroom Ratio,,0.063562070006,
-% Schools with Drinking Water,,0.0885298177424,
-% Schools with Common Toilet,,-0.0307053318354,
-% Schools with Boys' Toilet,,0.111820675734,
-% Schools with Girls' Toilet,,-0.0831653685367,
-% Schools with Boundarywall,,0.127986886166,
-% School with Playground Facility,,-0.100940880642,
-% Schools with Ramp,,0.0359463469611,
-% Schools havining Electricity,,-0.188092670019,
-% Schools with Computer,,0.636973783725,
-% Schools Providing Mid-day Meal*,,-0.0149028434235,
-Total Private Schools,,0.0223031248169,
-% Enrolment in Single-Teacher Schools,,-2.23981297261,
+(intercept),,185.856915993,345.76585637
+Pupil-Teacher Ratio: Elementary,,-2.88971325376,3.92603963923
+% Teachers Recieved in-Service Training,,-0.377461085289,6.59497646244
+Student-Classroom Ratio,,-2.79297555466,19.6924275854
