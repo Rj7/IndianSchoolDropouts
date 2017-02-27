@@ -9,7 +9,6 @@ Pupil-Teacher Ratio: Elementary,36,33,32,32,30,30,27,26,25,24
 % ST Teachers,-,9.1,9.5,9.4,9.4,9.2,8.7,8.6,8.5,8.5
 % OBC Teachers,-,32.8,34.2,33.4,32.5,34.7,34.6,35.2,34.5,35.6
 % Teachers Recieved in-Service Training,40,36.8,35.1,35,29.6,34.2,25.8,22,18.3,14.9
-% Contract Teachers to Total Teachers,10.7,10.5,9.4,11,11.2,12.2,-,-,13.6,13.2
 Enrolment: Classes I-V,124615546,134132183,134377324,133405581,135207057,137099984,134784272,132428440,130501135,129122784
 Enrolment: Classes VI-VIII,43667786,50911110,53350189,54467415,57844942,61955154,64926077,66471219,67165774,67593727
 "Enrolment: Classes I-V, Government",-,101153429,99485579,96222886,94088108,91650493,86491505,83121238,79901945,78051565
@@ -30,8 +29,8 @@ Ratio of Grade V to I,70,72,76,78,82,86,88,93,95,92
 Avg. Repetition Rate: Primary Level,6.3,6.1,5.2,3.9,5.1,3.2,2.1,1.2,0.7,0.5
 Avg.Repetition Rate: U.Primary Level,-,6,4.7,2.8,3.4,1.8,1.4,0.9,0.5,0.4
 Avg. Drop-out Rate: Primary Level,10,9.4,8,9.1,6.8,6.5,5.6,4.7,4.3,4.1
-Avg. Drop-out Rate: U.Primary Level,-,-,-,-,-,-,-,-,-,-
-Avg. Drop-out Rate: Secondary Level,-,-,-,-,-,-,-,-,-,-
+Avg. Drop-out Rate: U.Primary Level,-,-,-,-,6.56,2.65,3.13,3.77,4.03,4.3
+Avg. Drop-out Rate: Secondary Level,-,-,-,-,-,-,14.54,17.86,17.06,17.06
 Retention Rate: Primary Level,-,73.7,74.9,74,73.4,75.9,80.1,82.4,83.7,84.2
 Transition Rate: Primary to U.Primary,-,81.1,82.7,83.5,85.2,87.1,86.7,89.6,89.7,90.1
 Student-Classroom Ratio,39,35,33,32,31,30,29,28,27,27
