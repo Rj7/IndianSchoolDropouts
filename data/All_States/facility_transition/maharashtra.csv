@@ -1,5 +1,6 @@
 name,index,value,stderr
-(intercept),,441.952541949,44.3127177872
-Pupil-Teacher Ratio: Elementary,,-1.97538819884,1.19913499574
-% Teachers Recieved in-Service Training,,0.337214950045,0.369385734221
-Student-Classroom Ratio,,-9.54406795709,1.09268944387
+(intercept),,1.96685652935,38.3556060588
+Student-Classroom Ratio,,0.333485514268,0.194073406666
+Pupil-Teacher Ratio: Elementary,,0.0296583015096,0.640813780904
+% Teachers Recieved in-Service Training,,-0.0564198197363,0.0401532302629
+Total Teachers (Elementary),,-1.67837174643e-05,2.75154320277e-05
